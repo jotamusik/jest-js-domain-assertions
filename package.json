@@ -1,0 +1,38 @@
+{
+  "name": "javascript-katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotamusik/javascript-katas.git"
+  },
+  "author": "Jorge Aguiar Martín",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotamusik/javascript-katas/issues"
+  },
+  "homepage": "https://github.com/jotamusik/javascript-katas#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  }
+}
