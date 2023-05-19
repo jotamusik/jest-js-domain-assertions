@@ -1,4 +1,4 @@
-# Javascript Domain Assertions
+# Javascript Domain Assertions using Jest
 
 ## Description
 
