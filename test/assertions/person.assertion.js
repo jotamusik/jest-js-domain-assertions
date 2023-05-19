@@ -1,5 +1,6 @@
 import { expect } from '@jest/globals'
 import Person from "../../src/person";
+
 function toBeChild(actual) {
   if (!(actual instanceof Person)) {
     throw new Error('Wrong type, must be \'Person\'')
