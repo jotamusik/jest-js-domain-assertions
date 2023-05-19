@@ -2,9 +2,6 @@
   "name": "jest-js-domain-assertions",
   "version": "1.0.0",
   "description": "Custom assertions for jest",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "jest"
   },
