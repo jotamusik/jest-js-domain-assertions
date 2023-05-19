@@ -1,5 +1,5 @@
 {
-  "name": "javascript-katas",
+  "name": "jest-js-domain-assertions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jotamusik/javascript-katas.git"
+    "url": "git+https://github.com/jotamusik/jest-js-domain-assertions.git"
   },
   "author": "Jorge Aguiar Martín",
   "license": "ISC",
