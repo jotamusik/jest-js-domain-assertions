@@ -9,3 +9,6 @@ with the ubiquitous language and not only data comparison failure messages.
 - **02 Custom Failure Message:** A common test example but using a jest extension library to customize the error message
 - **03 Extract Expect:** By extracting expect functions, we can make the test code more expressive about our business rules (still, error messages not fully expressive)
 - **04 Custom Assertion:** By using jest's custom assertions, our test code and the failure messages express our business rules
+
+
+This is an equivalent repo of [chai custom assertions](https://github.com/jotamusik/chai-js-domain-assertions)
